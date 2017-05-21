@@ -2,6 +2,8 @@
 
 by R. De Veaux, P. Velleman, D. Bock
 
+* (Amazon)[https://www.amazon.com/gp/product/1256363219]
+
 ## Data
 
 Setup steps:
